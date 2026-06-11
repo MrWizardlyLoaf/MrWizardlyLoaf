@@ -1,10 +1,8 @@
-### Hi 👋 I'm Eli
+### 👋 hey
 
-Solana & web3 developer. I build on-chain tooling for autonomous agents — making it safer for AI to touch DeFi.
+I build small on-chain tools on Solana — mostly in Python. Lately I've been into MCP and giving AI agents safer ways to touch DeFi.
 
-🛡️ **[SolGuard](https://github.com/MrWizardlyLoaf/solguard-mcp)** — an on-chain token-safety MCP for Solana trading agents. Screens SPL / Token-2022 tokens for rugs & honeypots before a trade, then executes MEV-protected swaps. Listed on the official MCP Registry.
+🛡️ **[SolGuard](https://github.com/MrWizardlyLoaf/solguard-mcp)** — a token-safety MCP. It screens Solana tokens for rugs & honeypots before an agent trades. On the official MCP Registry.
 
-- 🔭 Working on on-chain safety primitives for AI agents
-- 🧰 Solana · Python · TypeScript · MCP
-- ✍️ I write on [dev.to](https://dev.to/mrwizardlyloaf)
-- 💬 Ask me about token safety, MCP servers, and Solana tooling
+- 🧰 Solana · Python · MCP
+- ✍️ occasionally writing on [dev.to](https://dev.to/mrwizardlyloaf)
